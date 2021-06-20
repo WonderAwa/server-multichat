@@ -8,7 +8,7 @@ Description:
  How to use it ?
     A version of python 3.x is required (download it here: https://www.python.org/downloads/)
 
-    clone the repository with the command below git clone https://github.com/WonderAwa/server-tftp.git
+    clone the repository with the command below git clone https://github.com/WonderAwa/server-multichat.git
 
     use the command ./tftp-server.py in a terminal to run the project and in another window of the terminal use this command netcat localhost 7777
  
